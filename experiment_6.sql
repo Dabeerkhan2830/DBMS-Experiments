@@ -59,7 +59,7 @@ INSERT INTO Employee VALUES
 (5, 'Arjun', 'Sales Manager', 92000, '2017-09-25', 5, NULL);
 
 INSERT INTO Employee VALUES
-(6, 'Ravi', 'Software Engineer', 60000, '2020-01-10', 1, 1),
+(6, 'Dabeer', 'Software Engineer', 60000, '2020-01-10', 1, 1),
 (7, 'Simran', 'Software Engineer', 65000, '2021-04-15', 1, 1),
 (8, 'Karan', 'Database Developer', 70000, '2020-07-20', 1, 1),
 (9, 'Pooja', 'Cloud Engineer', 75000, '2022-01-12', 1, 1),
